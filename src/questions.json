@@ -1,0 +1,5617 @@
+{
+ "title": "中国工农红军长征胜利 90 周年知识题库",
+ "single": [
+  {
+   "id": 1,
+   "type": "single",
+   "stem": "2026 年是中国工农红军长征胜利多少周年（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "80 周年"
+    },
+    {
+     "key": "B",
+     "text": "85 周年"
+    },
+    {
+     "key": "C",
+     "text": "90 周年"
+    },
+    {
+     "key": "D",
+     "text": "95 周年"
+    }
+   ],
+   "answer": "C",
+   "_raw_answer": "C",
+   "_tail": ""
+  },
+  {
+   "id": 2,
+   "type": "single",
+   "stem": "红军三大主力胜利会师，标志长征胜利结束的时间是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "1934 年 10 月"
+    },
+    {
+     "key": "B",
+     "text": "1935 年 10 月"
+    },
+    {
+     "key": "C",
+     "text": "1936 年 10 月"
+    },
+    {
+     "key": "D",
+     "text": "1937 年 10 月"
+    }
+   ],
+   "answer": "C",
+   "_raw_answer": "C",
+   "_tail": ""
+  },
+  {
+   "id": 3,
+   "type": "single",
+   "stem": "中央红军（红一方面军）开始长征的出发时间是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "1934 年 10 月"
+    },
+    {
+     "key": "B",
+     "text": "1934 年 12 月"
+    },
+    {
+     "key": "C",
+     "text": "1935 年 1 月"
+    },
+    {
+     "key": "D",
+     "text": "1935 年 10 月"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 4,
+   "type": "single",
+   "stem": "红军长征的直接原因是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "北上抗日"
+    },
+    {
+     "key": "B",
+     "text": "第五次反\"围剿\"失败"
+    },
+    {
+     "key": "C",
+     "text": "开辟新根据地"
+    },
+    {
+     "key": "D",
+     "text": "寻找新的物资补给地"
+    }
+   ],
+   "answer": "B",
+   "_raw_answer": "B",
+   "_tail": ""
+  },
+  {
+   "id": 5,
+   "type": "single",
+   "stem": "中央红军长征出发时，全军约有多少人（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "3 万余人"
+    },
+    {
+     "key": "B",
+     "text": "5 万余人"
+    },
+    {
+     "key": "C",
+     "text": "10 万余人"
+    },
+    {
+     "key": "D",
+     "text": "8.6 万余人"
+    }
+   ],
+   "answer": "D",
+   "_raw_answer": "D",
+   "_tail": ""
+  },
+  {
+   "id": 6,
+   "type": "single",
+   "stem": "中央红军长征出发地主要是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "江西瑞金等地"
+    },
+    {
+     "key": "B",
+     "text": "湖南长沙"
+    },
+    {
+     "key": "C",
+     "text": "湖北武汉"
+    },
+    {
+     "key": "D",
+     "text": "贵州遵义"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 7,
+   "type": "single",
+   "stem": "红军长征出发时，被称为\"长征第一渡\"的渡口位于（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "贵州遵义"
+    },
+    {
+     "key": "B",
+     "text": "四川泸定"
+    },
+    {
+     "key": "C",
+     "text": "江西于都"
+    },
+    {
+     "key": "D",
+     "text": "甘肃会宁"
+    }
+   ],
+   "answer": "C",
+   "_raw_answer": "C",
+   "_tail": ""
+  },
+  {
+   "id": 8,
+   "type": "single",
+   "stem": "长征途中，成为中国共产党历史上生死攸关转折点的会议是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "八七会议"
+    },
+    {
+     "key": "B",
+     "text": "遵义会议"
+    },
+    {
+     "key": "C",
+     "text": "瓦窑堡会议"
+    },
+    {
+     "key": "D",
+     "text": "洛川会议"
+    }
+   ],
+   "answer": "B",
+   "_raw_answer": "B",
+   "_tail": ""
+  },
+  {
+   "id": 9,
+   "type": "single",
+   "stem": "遵义会议的召开地点在（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "贵州"
+    },
+    {
+     "key": "B",
+     "text": "江西"
+    },
+    {
+     "key": "C",
+     "text": "四川"
+    },
+    {
+     "key": "D",
+     "text": "陕西"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 10,
+   "type": "single",
+   "stem": "遵义会议召开的时间是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "1934 年 12 月"
+    },
+    {
+     "key": "B",
+     "text": "1935 年 1 月"
+    },
+    {
+     "key": "C",
+     "text": "1935 年 6 月"
+    },
+    {
+     "key": "D",
+     "text": "1935 年 10 月"
+    }
+   ],
+   "answer": "B",
+   "_raw_answer": "B",
+   "_tail": ""
+  },
+  {
+   "id": 11,
+   "type": "single",
+   "stem": "遵义会议集中解决的主要问题是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "思想路线问题"
+    },
+    {
+     "key": "B",
+     "text": "军事和组织问题"
+    },
+    {
+     "key": "C",
+     "text": "土地问题"
+    },
+    {
+     "key": "D",
+     "text": "统一战线问题"
+    }
+   ],
+   "answer": "B",
+   "_raw_answer": "B",
+   "_tail": ""
+  },
+  {
+   "id": 12,
+   "type": "single",
+   "stem": "遵义会议改组中央领导机构，选举毛泽东为（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "中央总书记"
+    },
+    {
+     "key": "B",
+     "text": "中革军委主席"
+    },
+    {
+     "key": "C",
+     "text": "中央政治局常委"
+    },
+    {
+     "key": "D",
+     "text": "红军总政治委员"
+    }
+   ],
+   "answer": "C",
+   "_raw_answer": "C",
+   "_tail": ""
+  },
+  {
+   "id": 13,
+   "type": "single",
+   "stem": "遵义会议后，在行军途中根据会议精神进行常委分工，代替博古负总责的是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "毛泽东"
+    },
+    {
+     "key": "B",
+     "text": "张闻天"
+    },
+    {
+     "key": "C",
+     "text": "周恩来"
+    },
+    {
+     "key": "D",
+     "text": "王稼祥"
+    }
+   ],
+   "answer": "B",
+   "_raw_answer": "B",
+   "_tail": ""
+  },
+  {
+   "id": 14,
+   "type": "single",
+   "stem": "遵义会议指定起草会议决议的是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "毛泽东"
+    },
+    {
+     "key": "B",
+     "text": "周恩来"
+    },
+    {
+     "key": "C",
+     "text": "张闻天"
+    },
+    {
+     "key": "D",
+     "text": "陈云"
+    }
+   ],
+   "answer": "C",
+   "_raw_answer": "C",
+   "_tail": ""
+  },
+  {
+   "id": 15,
+   "type": "single",
+   "stem": "遵义会议后，党中央成立的三人军事指挥小组不包括（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "毛泽东"
+    },
+    {
+     "key": "B",
+     "text": "周恩来"
+    },
+    {
+     "key": "C",
+     "text": "王稼祥"
+    },
+    {
+     "key": "D",
+     "text": "博古"
+    }
+   ],
+   "answer": "D",
+   "_raw_answer": "D",
+   "_tail": ""
+  },
+  {
+   "id": 16,
+   "type": "single",
+   "stem": "红军长征中，跳出敌人包围圈的关键行动是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "四渡赤水"
+    },
+    {
+     "key": "B",
+     "text": "巧渡金沙江"
+    },
+    {
+     "key": "C",
+     "text": "强渡大渡河"
+    },
+    {
+     "key": "D",
+     "text": "飞夺泸定桥"
+    }
+   ],
+   "answer": "B",
+   "_raw_answer": "B",
+   "_tail": ""
+  },
+  {
+   "id": 17,
+   "type": "single",
+   "stem": "中央红军巧渡金沙江的主要渡口是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "安顺场"
+    },
+    {
+     "key": "B",
+     "text": "皎平渡"
+    },
+    {
+     "key": "C",
+     "text": "太平渡"
+    },
+    {
+     "key": "D",
+     "text": "茅台"
+    }
+   ],
+   "answer": "B",
+   "_raw_answer": "B",
+   "_tail": ""
+  },
+  {
+   "id": 18,
+   "type": "single",
+   "stem": "被称为长征史上\"神来之笔\"，打乱敌人追剿计划的军事行动是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "四渡赤水"
+    },
+    {
+     "key": "B",
+     "text": "翻越夹金山"
+    },
+    {
+     "key": "C",
+     "text": "血战湘江"
+    },
+    {
+     "key": "D",
+     "text": "攻占腊子口"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 19,
+   "type": "single",
+   "stem": "中央红军四渡赤水的时间是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "1934 年 10 月至 12 月"
+    },
+    {
+     "key": "B",
+     "text": "1935 年 1 月至 3 月"
+    },
+    {
+     "key": "C",
+     "text": "1935 年 6 月至 8 月"
+    },
+    {
+     "key": "D",
+     "text": "1936 年 1 月至 3 月"
+    }
+   ],
+   "answer": "B",
+   "_raw_answer": "B",
+   "_tail": ""
+  },
+  {
+   "id": 20,
+   "type": "single",
+   "stem": "中央红军长征途中，损失最为惨重的战役是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "湘江战役"
+    },
+    {
+     "key": "B",
+     "text": "松潘战役"
+    },
+    {
+     "key": "C",
+     "text": "包座战役"
+    },
+    {
+     "key": "D",
+     "text": "直罗镇战役"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 21,
+   "type": "single",
+   "stem": "湘江战役之后，中央红军仅剩约多少人（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "3 万余人"
+    },
+    {
+     "key": "B",
+     "text": "8 万余人"
+    },
+    {
+     "key": "C",
+     "text": "5 万余人"
+    },
+    {
+     "key": "D",
+     "text": "1 万余人"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 22,
+   "type": "single",
+   "stem": "湘江战役发生在哪个省份境内（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "江西"
+    },
+    {
+     "key": "B",
+     "text": "广西"
+    },
+    {
+     "key": "C",
+     "text": "贵州"
+    },
+    {
+     "key": "D",
+     "text": "四川"
+    }
+   ],
+   "answer": "B",
+   "_raw_answer": "B",
+   "_tail": ""
+  },
+  {
+   "id": 23,
+   "type": "single",
+   "stem": "湘江战役中，红五军团第三十四师师长（）为掩护主力渡江，重伤被俘后断肠明志、壮烈牺牲",
+   "options": [
+    {
+     "key": "A",
+     "text": "陈树湘"
+    },
+    {
+     "key": "B",
+     "text": "刘畴西"
+    },
+    {
+     "key": "C",
+     "text": "寻淮洲"
+    },
+    {
+     "key": "D",
+     "text": "周昆"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 24,
+   "type": "single",
+   "stem": "红军飞夺泸定桥时，泸定桥横跨的河流是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "金沙江"
+    },
+    {
+     "key": "B",
+     "text": "大渡河"
+    },
+    {
+     "key": "C",
+     "text": "湘江"
+    },
+    {
+     "key": "D",
+     "text": "赤水河"
+    }
+   ],
+   "answer": "B",
+   "_raw_answer": "B",
+   "_tail": ""
+  },
+  {
+   "id": 25,
+   "type": "single",
+   "stem": "\"飞夺泸定桥\"是长征中的经典战斗，泸定桥位于（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "云南"
+    },
+    {
+     "key": "B",
+     "text": "四川"
+    },
+    {
+     "key": "C",
+     "text": "湖南"
+    },
+    {
+     "key": "D",
+     "text": "广西"
+    }
+   ],
+   "answer": "B",
+   "_raw_answer": "B",
+   "_tail": ""
+  },
+  {
+   "id": 26,
+   "type": "single",
+   "stem": "红军长征翻越的第一座大雪山是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "夹金山"
+    },
+    {
+     "key": "B",
+     "text": "梦笔山"
+    },
+    {
+     "key": "C",
+     "text": "长板山"
+    },
+    {
+     "key": "D",
+     "text": "打鼓山"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 27,
+   "type": "single",
+   "stem": "中央红军翻越的第一座大雪山夹金山，位于今（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "四川松潘、平武交界"
+    },
+    {
+     "key": "B",
+     "text": "四川宝兴、小金交界"
+    },
+    {
+     "key": "C",
+     "text": "甘肃迭部、岷县交界"
+    },
+    {
+     "key": "D",
+     "text": "青海班玛、久治交界"
+    }
+   ],
+   "answer": "B",
+   "_raw_answer": "B",
+   "_tail": ""
+  },
+  {
+   "id": 28,
+   "type": "single",
+   "stem": "中央红军翻越夹金山的时间是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "1935 年 5 月"
+    },
+    {
+     "key": "B",
+     "text": "1935 年 6 月"
+    },
+    {
+     "key": "C",
+     "text": "1935 年 9 月"
+    },
+    {
+     "key": "D",
+     "text": "1935 年 10 月"
+    }
+   ],
+   "answer": "B",
+   "_raw_answer": "B",
+   "_tail": ""
+  },
+  {
+   "id": 29,
+   "type": "single",
+   "stem": "红军长征经过的松潘草地属于现在的（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "四川省"
+    },
+    {
+     "key": "B",
+     "text": "甘肃省"
+    },
+    {
+     "key": "C",
+     "text": "青海省"
+    },
+    {
+     "key": "D",
+     "text": "云南省"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 30,
+   "type": "single",
+   "stem": "红一方面军（中央红军）长征结束，到达陕北吴起镇的时间是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "1935 年 10 月"
+    },
+    {
+     "key": "B",
+     "text": "1936 年 10 月"
+    },
+    {
+     "key": "C",
+     "text": "1935 年 1 月"
+    },
+    {
+     "key": "D",
+     "text": "1934 年 10 月"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 31,
+   "type": "single",
+   "stem": "中央红军到达陕北吴起镇的具体日期是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "1935 年 9 月 27 日"
+    },
+    {
+     "key": "B",
+     "text": "1935 年 10 月 1 日"
+    },
+    {
+     "key": "C",
+     "text": "1935 年 11 月 6 日"
+    },
+    {
+     "key": "D",
+     "text": "1935 年 10 月 19 日"
+    }
+   ],
+   "answer": "D",
+   "_raw_answer": "D",
+   "_tail": ""
+  },
+  {
+   "id": 32,
+   "type": "single",
+   "stem": "红二方面军长征出发地主要是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "湘鄂川黔根据地"
+    },
+    {
+     "key": "B",
+     "text": "中央苏区"
+    },
+    {
+     "key": "C",
+     "text": "鄂豫皖苏区"
+    },
+    {
+     "key": "D",
+     "text": "川陕苏区"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 33,
+   "type": "single",
+   "stem": "红军三大主力中，最早从根据地出发开始长征的是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "红二方面军"
+    },
+    {
+     "key": "B",
+     "text": "红四方面军"
+    },
+    {
+     "key": "C",
+     "text": "红一方面军"
+    },
+    {
+     "key": "D",
+     "text": "红二十五军"
+    }
+   ],
+   "answer": "C",
+   "_raw_answer": "C",
+   "_tail": ""
+  },
+  {
+   "id": 34,
+   "type": "single",
+   "stem": "红四方面军长征出发地是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "川陕革命根据地"
+    },
+    {
+     "key": "B",
+     "text": "湘赣根据地"
+    },
+    {
+     "key": "C",
+     "text": "陕甘根据地"
+    },
+    {
+     "key": "D",
+     "text": "闽浙赣根据地"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 35,
+   "type": "single",
+   "stem": "长征中，红一、四方面军两大主力会师地点是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "懋功（今小金）"
+    },
+    {
+     "key": "B",
+     "text": "会宁"
+    },
+    {
+     "key": "C",
+     "text": "吴起镇"
+    },
+    {
+     "key": "D",
+     "text": "甘孜"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 36,
+   "type": "single",
+   "stem": "红一方面军与红四方面军懋功会师的时间是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "1935 年 9 月"
+    },
+    {
+     "key": "B",
+     "text": "1935 年 6 月"
+    },
+    {
+     "key": "C",
+     "text": "1936 年 6 月"
+    },
+    {
+     "key": "D",
+     "text": "1936 年 10 月"
+    }
+   ],
+   "answer": "B",
+   "_raw_answer": "B",
+   "_tail": ""
+  },
+  {
+   "id": 37,
+   "type": "single",
+   "stem": "长征途中，中共中央政治局两河口会议召开于（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "1935 年 1 月"
+    },
+    {
+     "key": "B",
+     "text": "1935 年 5 月"
+    },
+    {
+     "key": "C",
+     "text": "1935 年 6 月"
+    },
+    {
+     "key": "D",
+     "text": "1935 年 8 月"
+    }
+   ],
+   "answer": "C",
+   "_raw_answer": "C",
+   "_tail": ""
+  },
+  {
+   "id": 38,
+   "type": "single",
+   "stem": "红二、四方面军会师地点是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "甘孜"
+    },
+    {
+     "key": "B",
+     "text": "懋功"
+    },
+    {
+     "key": "C",
+     "text": "会宁"
+    },
+    {
+     "key": "D",
+     "text": "哈达铺"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 39,
+   "type": "single",
+   "stem": "红军三大主力会师地点是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "甘肃会宁、隆德（今属宁夏西吉）将台堡一带"
+    },
+    {
+     "key": "B",
+     "text": "陕西吴起镇"
+    },
+    {
+     "key": "C",
+     "text": "四川懋功"
+    },
+    {
+     "key": "D",
+     "text": "甘肃哈达铺"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 40,
+   "type": "single",
+   "stem": "1936 年 10 月，红一方面军与红四方面军会师的地点是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "将台堡"
+    },
+    {
+     "key": "B",
+     "text": "会宁"
+    },
+    {
+     "key": "C",
+     "text": "甘孜"
+    },
+    {
+     "key": "D",
+     "text": "吴起镇"
+    }
+   ],
+   "answer": "B",
+   "_raw_answer": "B",
+   "_tail": ""
+  },
+  {
+   "id": 41,
+   "type": "single",
+   "stem": "1936 年 10 月，红一方面军与红二方面军会师的地点是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "会宁"
+    },
+    {
+     "key": "B",
+     "text": "静宁"
+    },
+    {
+     "key": "C",
+     "text": "将台堡"
+    },
+    {
+     "key": "D",
+     "text": "永坪镇"
+    }
+   ],
+   "answer": "C",
+   "_raw_answer": "C",
+   "_tail": ""
+  },
+  {
+   "id": 42,
+   "type": "single",
+   "stem": "长征途中，红军在（）从报纸上得知陕北有红军和根据地的消息，从而明确了北上方向",
+   "options": [
+    {
+     "key": "A",
+     "text": "哈达铺"
+    },
+    {
+     "key": "B",
+     "text": "腊子口"
+    },
+    {
+     "key": "C",
+     "text": "榜罗镇"
+    },
+    {
+     "key": "D",
+     "text": "吴起镇"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 43,
+   "type": "single",
+   "stem": "中央红军在哈达铺，主要依据哪份报纸得知陕北存在根据地，确定北上落脚点（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "《大公报》"
+    },
+    {
+     "key": "B",
+     "text": "《申报》"
+    },
+    {
+     "key": "C",
+     "text": "《红色中华》"
+    },
+    {
+     "key": "D",
+     "text": "民国日报"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 44,
+   "type": "single",
+   "stem": "榜罗镇会议确定红军长征的最终落脚点是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "陕北"
+    },
+    {
+     "key": "B",
+     "text": "川西北"
+    },
+    {
+     "key": "C",
+     "text": "宁夏"
+    },
+    {
+     "key": "D",
+     "text": "甘肃河西"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 45,
+   "type": "single",
+   "stem": "红军长征中突破敌人四道封锁线，第四道封锁线是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "湘江封锁线"
+    },
+    {
+     "key": "B",
+     "text": "赣江封锁线"
+    },
+    {
+     "key": "C",
+     "text": "汝城封锁线"
+    },
+    {
+     "key": "D",
+     "text": "宜章封锁线"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 46,
+   "type": "single",
+   "stem": "中央红军长征出发后突破的第一道封锁线是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "湘江防线"
+    },
+    {
+     "key": "B",
+     "text": "赣南桃江防线"
+    },
+    {
+     "key": "C",
+     "text": "汝城、城口防线"
+    },
+    {
+     "key": "D",
+     "text": "宜章、良田防线"
+    }
+   ],
+   "answer": "B",
+   "_raw_answer": "B",
+   "_tail": ""
+  },
+  {
+   "id": 47,
+   "type": "single",
+   "stem": "中央红军突破的第二道封锁线位于（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "江西信丰、安远间"
+    },
+    {
+     "key": "B",
+     "text": "湖南汝城和广东城口之间"
+    },
+    {
+     "key": "C",
+     "text": "湖南宜章、良田间"
+    },
+    {
+     "key": "D",
+     "text": "广西全州、兴安间"
+    }
+   ],
+   "answer": "B",
+   "_raw_answer": "B",
+   "_tail": ""
+  },
+  {
+   "id": 48,
+   "type": "single",
+   "stem": "中央红军突破的第三道封锁线位于（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "湖南汝城一带"
+    },
+    {
+     "key": "B",
+     "text": "广西全州一带"
+    },
+    {
+     "key": "C",
+     "text": "湖南宜章、良田一带"
+    },
+    {
+     "key": "D",
+     "text": "贵州黎平一带"
+    }
+   ],
+   "answer": "C",
+   "_raw_answer": "C",
+   "_tail": ""
+  },
+  {
+   "id": 49,
+   "type": "single",
+   "stem": "\"红军不怕远征难，万水千山只等闲\"这首《七律·长征》作者是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "毛泽东"
+    },
+    {
+     "key": "B",
+     "text": "周恩来"
+    },
+    {
+     "key": "C",
+     "text": "朱德"
+    },
+    {
+     "key": "D",
+     "text": "彭德怀"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 50,
+   "type": "single",
+   "stem": "《清平乐·六盘山》\"不到长城非好汉\"的作者是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "朱德"
+    },
+    {
+     "key": "B",
+     "text": "毛泽东"
+    },
+    {
+     "key": "C",
+     "text": "陈毅"
+    },
+    {
+     "key": "D",
+     "text": "叶剑英"
+    }
+   ],
+   "answer": "B",
+   "_raw_answer": "B",
+   "_tail": ""
+  },
+  {
+   "id": 51,
+   "type": "single",
+   "stem": "《七律·长征》写于哪一年（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "1935 年"
+    },
+    {
+     "key": "B",
+     "text": "1936 年"
+    },
+    {
+     "key": "C",
+     "text": "1934 年"
+    },
+    {
+     "key": "D",
+     "text": "1937 年"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 52,
+   "type": "single",
+   "stem": "《七律·长征》中\"更喜岷山千里雪，三军过后尽开颜\"，其中岷山位于（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "湖南、江西交界"
+    },
+    {
+     "key": "B",
+     "text": "四川、甘肃交界"
+    },
+    {
+     "key": "C",
+     "text": "贵州、云南交界"
+    },
+    {
+     "key": "D",
+     "text": "陕西、山西交界"
+    }
+   ],
+   "answer": "B",
+   "_raw_answer": "B",
+   "_tail": ""
+  },
+  {
+   "id": 53,
+   "type": "single",
+   "stem": "下列诗词中，毛泽东在长征途中创作的是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "《忆秦娥·娄山关》"
+    },
+    {
+     "key": "B",
+     "text": "《沁园春·雪》"
+    },
+    {
+     "key": "C",
+     "text": "《七律·到韶山》"
+    },
+    {
+     "key": "D",
+     "text": "《水调歌头·游泳》"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 54,
+   "type": "single",
+   "stem": "《七律·长征》诗句\"金沙水拍云崖暖，大渡桥横铁索寒\"里的铁索桥指（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "泸定桥"
+    },
+    {
+     "key": "B",
+     "text": "铁索关桥"
+    },
+    {
+     "key": "C",
+     "text": "安顺场桥"
+    },
+    {
+     "key": "D",
+     "text": "定南桥"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 55,
+   "type": "single",
+   "stem": "泸定桥是一座横跨大渡河的什么类型桥梁（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "石拱桥"
+    },
+    {
+     "key": "B",
+     "text": "铁索桥"
+    },
+    {
+     "key": "C",
+     "text": "浮桥"
+    },
+    {
+     "key": "D",
+     "text": "木梁桥"
+    }
+   ],
+   "answer": "B",
+   "_raw_answer": "B",
+   "_tail": ""
+  },
+  {
+   "id": 56,
+   "type": "single",
+   "stem": "下面哪句诗是描写长征的（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "雄关漫道真如铁，而今迈步从头越"
+    },
+    {
+     "key": "B",
+     "text": "为有牺牲多壮志，敢教日月换新天"
+    },
+    {
+     "key": "C",
+     "text": "待到山花烂漫时，她在丛中笑"
+    },
+    {
+     "key": "D",
+     "text": "天若有情天亦老"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 57,
+   "type": "single",
+   "stem": "长征精神的核心内涵不包含以下哪一项（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "坚定革命理想和信念"
+    },
+    {
+     "key": "B",
+     "text": "不怕任何艰难险阻"
+    },
+    {
+     "key": "C",
+     "text": "贪图安逸享乐"
+    },
+    {
+     "key": "D",
+     "text": "紧紧依靠人民群众"
+    }
+   ],
+   "answer": "C",
+   "_raw_answer": "C",
+   "_tail": ""
+  },
+  {
+   "id": 58,
+   "type": "single",
+   "stem": "伟大长征精神，首先就是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "坚定革命的理想和信念"
+    },
+    {
+     "key": "B",
+     "text": "享乐主义"
+    },
+    {
+     "key": "C",
+     "text": "个人主义"
+    },
+    {
+     "key": "D",
+     "text": "本位主义"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 59,
+   "type": "single",
+   "stem": "长征里程，中央红军（红一方面军）长征大约里程是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "二万五千里"
+    },
+    {
+     "key": "B",
+     "text": "二万里"
+    },
+    {
+     "key": "C",
+     "text": "一万五千里"
+    },
+    {
+     "key": "D",
+     "text": "三万里"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 60,
+   "type": "single",
+   "stem": "红二十五军长征行程约（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "一万里"
+    },
+    {
+     "key": "B",
+     "text": "二万五千里"
+    },
+    {
+     "key": "C",
+     "text": "一万五千里"
+    },
+    {
+     "key": "D",
+     "text": "五千里"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 61,
+   "type": "single",
+   "stem": "红二十五军长征出发地是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "河南罗山何家冲"
+    },
+    {
+     "key": "B",
+     "text": "湖北红安"
+    },
+    {
+     "key": "C",
+     "text": "安徽金寨"
+    },
+    {
+     "key": "D",
+     "text": "陕西商洛"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 62,
+   "type": "single",
+   "stem": "红二十五军是长征中哪一支红军队伍（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "最先到达陕北的红军部队"
+    },
+    {
+     "key": "B",
+     "text": "最后完成长征的红军"
+    },
+    {
+     "key": "C",
+     "text": "人数最多的红军"
+    },
+    {
+     "key": "D",
+     "text": "装备最好的红军"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 63,
+   "type": "single",
+   "stem": "红二十五军开始长征的时间是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "1934 年 10 月"
+    },
+    {
+     "key": "B",
+     "text": "1934 年 11 月"
+    },
+    {
+     "key": "C",
+     "text": "1935 年 1 月"
+    },
+    {
+     "key": "D",
+     "text": "1935 年 9 月"
+    }
+   ],
+   "answer": "B",
+   "_raw_answer": "B",
+   "_tail": ""
+  },
+  {
+   "id": 64,
+   "type": "single",
+   "stem": "红二十五军是长征中唯一一支（）的红军队伍",
+   "options": [
+    {
+     "key": "A",
+     "text": "全由骑兵组成"
+    },
+    {
+     "key": "B",
+     "text": "未与敌军作战"
+    },
+    {
+     "key": "C",
+     "text": "人数不减反增"
+    },
+    {
+     "key": "D",
+     "text": "由女兵组成"
+    }
+   ],
+   "answer": "C",
+   "_raw_answer": "C",
+   "_tail": ""
+  },
+  {
+   "id": 65,
+   "type": "single",
+   "stem": "红二十五军在长征途中创建的革命根据地是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "川陕根据地"
+    },
+    {
+     "key": "B",
+     "text": "湘鄂川黔根据地"
+    },
+    {
+     "key": "C",
+     "text": "鄂豫陕根据地"
+    },
+    {
+     "key": "D",
+     "text": "陕甘根据地"
+    }
+   ],
+   "answer": "C",
+   "_raw_answer": "C",
+   "_tail": ""
+  },
+  {
+   "id": 66,
+   "type": "single",
+   "stem": "红二十五军到达陕北后，与陕北红军合编为（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "红十五军团"
+    },
+    {
+     "key": "B",
+     "text": "红一方面军"
+    },
+    {
+     "key": "C",
+     "text": "红二十八军"
+    },
+    {
+     "key": "D",
+     "text": "红二十九军"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 67,
+   "type": "single",
+   "stem": "红十五军团军团长是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "刘志丹"
+    },
+    {
+     "key": "B",
+     "text": "程子华"
+    },
+    {
+     "key": "C",
+     "text": "徐向前"
+    },
+    {
+     "key": "D",
+     "text": "徐海东"
+    }
+   ],
+   "answer": "D",
+   "_raw_answer": "D",
+   "_tail": ""
+  },
+  {
+   "id": 68,
+   "type": "single",
+   "stem": "陕北红军的主要创建人是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "贺龙、任弼时"
+    },
+    {
+     "key": "B",
+     "text": "徐向前、陈昌浩"
+    },
+    {
+     "key": "C",
+     "text": "刘志丹、谢子长"
+    },
+    {
+     "key": "D",
+     "text": "方志敏、邵式平"
+    }
+   ],
+   "answer": "C",
+   "_raw_answer": "C",
+   "_tail": ""
+  },
+  {
+   "id": 69,
+   "type": "single",
+   "stem": "红二十五军长征最终抵达哪里，是最早到达陕北的长征队伍（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "吴起镇"
+    },
+    {
+     "key": "B",
+     "text": "永坪镇"
+    },
+    {
+     "key": "C",
+     "text": "会宁"
+    },
+    {
+     "key": "D",
+     "text": "甘泉"
+    }
+   ],
+   "answer": "B",
+   "_raw_answer": "B",
+   "_tail": ""
+  },
+  {
+   "id": 70,
+   "type": "single",
+   "stem": "长征途中，被称为\"天险门户\"，红军攻克后打开进入陕北通道的战斗是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "腊子口战斗"
+    },
+    {
+     "key": "B",
+     "text": "包座战斗"
+    },
+    {
+     "key": "C",
+     "text": "直罗镇战役"
+    },
+    {
+     "key": "D",
+     "text": "土城战斗"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 71,
+   "type": "single",
+   "stem": "长征中，红军突破腊子口天险后进入的地区是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "四川西部"
+    },
+    {
+     "key": "B",
+     "text": "云南北部"
+    },
+    {
+     "key": "C",
+     "text": "贵州东部"
+    },
+    {
+     "key": "D",
+     "text": "甘肃南部"
+    }
+   ],
+   "answer": "D",
+   "_raw_answer": "D",
+   "_tail": ""
+  },
+  {
+   "id": 72,
+   "type": "single",
+   "stem": "腊子口位于（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "甘肃迭部"
+    },
+    {
+     "key": "B",
+     "text": "四川松潘"
+    },
+    {
+     "key": "C",
+     "text": "陕西吴起"
+    },
+    {
+     "key": "D",
+     "text": "宁夏同心"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 73,
+   "type": "single",
+   "stem": "中央红军攻占天险腊子口的时间是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "1935 年 6 月"
+    },
+    {
+     "key": "B",
+     "text": "1935 年 8 月"
+    },
+    {
+     "key": "C",
+     "text": "1935 年 9 月"
+    },
+    {
+     "key": "D",
+     "text": "1935 年 11 月"
+    }
+   ],
+   "answer": "C",
+   "_raw_answer": "C",
+   "_tail": ""
+  },
+  {
+   "id": 74,
+   "type": "single",
+   "stem": "长征中，红军和少数民族彝族首领小叶丹歃血为盟的地点是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "四川冕宁彝海"
+    },
+    {
+     "key": "B",
+     "text": "四川石棉"
+    },
+    {
+     "key": "C",
+     "text": "四川泸定"
+    },
+    {
+     "key": "D",
+     "text": "四川小金"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 75,
+   "type": "single",
+   "stem": "长征途中，红军经过的少数民族聚居地区主要是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "广东沿海"
+    },
+    {
+     "key": "B",
+     "text": "东北平原"
+    },
+    {
+     "key": "C",
+     "text": "四川、西康（今川西、藏东）藏族地区"
+    },
+    {
+     "key": "D",
+     "text": "江南水乡"
+    }
+   ],
+   "answer": "C",
+   "_raw_answer": "C",
+   "_tail": ""
+  },
+  {
+   "id": 76,
+   "type": "single",
+   "stem": "彝海结盟体现了党的（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "民族政策"
+    },
+    {
+     "key": "B",
+     "text": "土地政策"
+    },
+    {
+     "key": "C",
+     "text": "统战政策"
+    },
+    {
+     "key": "D",
+     "text": "财政政策"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 77,
+   "type": "single",
+   "stem": "\"彝海结盟\"故事中，与彝族首领歃血为盟的红军将领是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "贺龙"
+    },
+    {
+     "key": "B",
+     "text": "彭德怀"
+    },
+    {
+     "key": "C",
+     "text": "林彪"
+    },
+    {
+     "key": "D",
+     "text": "刘伯承"
+    }
+   ],
+   "answer": "D",
+   "_raw_answer": "D",
+   "_tail": ""
+  },
+  {
+   "id": 78,
+   "type": "single",
+   "stem": "指挥强渡大渡河十七勇士突击队的是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "孙继先"
+    },
+    {
+     "key": "B",
+     "text": "杨成武"
+    },
+    {
+     "key": "C",
+     "text": "黄开湘"
+    },
+    {
+     "key": "D",
+     "text": "陈赓"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 79,
+   "type": "single",
+   "stem": "中央红军强渡大渡河的时间是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "1935 年 1 月"
+    },
+    {
+     "key": "B",
+     "text": "1935 年 5 月"
+    },
+    {
+     "key": "C",
+     "text": "1935 年 9 月"
+    },
+    {
+     "key": "D",
+     "text": "1936 年 5 月"
+    }
+   ],
+   "answer": "B",
+   "_raw_answer": "B",
+   "_tail": ""
+  },
+  {
+   "id": 80,
+   "type": "single",
+   "stem": "长征中，红军强渡大渡河的渡口是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "安顺场"
+    },
+    {
+     "key": "B",
+     "text": "吴起镇"
+    },
+    {
+     "key": "C",
+     "text": "会宁"
+    },
+    {
+     "key": "D",
+     "text": "哈达铺"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 81,
+   "type": "single",
+   "stem": "飞夺泸定桥的红四团政委是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "杨成武"
+    },
+    {
+     "key": "B",
+     "text": "黄开湘"
+    },
+    {
+     "key": "C",
+     "text": "王开湘"
+    },
+    {
+     "key": "D",
+     "text": "肖华"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 82,
+   "type": "single",
+   "stem": "飞夺泸定桥的红四团团长是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "黄开湘"
+    },
+    {
+     "key": "B",
+     "text": "杨成武"
+    },
+    {
+     "key": "C",
+     "text": "孙继先"
+    },
+    {
+     "key": "D",
+     "text": "杨得志"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 83,
+   "type": "single",
+   "stem": "飞夺泸定桥战斗中，红四团组织的突击队由（）名勇士组成",
+   "options": [
+    {
+     "key": "A",
+     "text": "17"
+    },
+    {
+     "key": "B",
+     "text": "18"
+    },
+    {
+     "key": "C",
+     "text": "24"
+    },
+    {
+     "key": "D",
+     "text": "22"
+    }
+   ],
+   "answer": "D",
+   "_raw_answer": "D",
+   "_tail": ""
+  },
+  {
+   "id": 84,
+   "type": "single",
+   "stem": "飞夺泸定桥前，红四团一昼夜强行军（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "120 里"
+    },
+    {
+     "key": "B",
+     "text": "180 里"
+    },
+    {
+     "key": "C",
+     "text": "240 里"
+    },
+    {
+     "key": "D",
+     "text": "300 里"
+    }
+   ],
+   "answer": "C",
+   "_raw_answer": "C",
+   "_tail": ""
+  },
+  {
+   "id": 85,
+   "type": "single",
+   "stem": "飞夺泸定桥时，担任开路先锋、率先攀索冲锋的部队是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "红一团"
+    },
+    {
+     "key": "B",
+     "text": "红六团"
+    },
+    {
+     "key": "C",
+     "text": "红四团"
+    },
+    {
+     "key": "D",
+     "text": "红九团"
+    }
+   ],
+   "answer": "C",
+   "_raw_answer": "C",
+   "_tail": ""
+  },
+  {
+   "id": 86,
+   "type": "single",
+   "stem": "下列长征事件中，属于红一方面军（中央红军）的是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "百丈关战役"
+    },
+    {
+     "key": "B",
+     "text": "包座战役"
+    },
+    {
+     "key": "C",
+     "text": "飞夺泸定桥"
+    },
+    {
+     "key": "D",
+     "text": "嘉陵江战役"
+    }
+   ],
+   "answer": "C",
+   "_raw_answer": "C",
+   "_tail": ""
+  },
+  {
+   "id": 87,
+   "type": "single",
+   "stem": "长征途中，土城战斗发生在（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "贵州"
+    },
+    {
+     "key": "B",
+     "text": "四川"
+    },
+    {
+     "key": "C",
+     "text": "云南"
+    },
+    {
+     "key": "D",
+     "text": "湖南"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 88,
+   "type": "single",
+   "stem": "遵义会议之前，负责指挥红军、造成第五次反\"围剿\"失败的\"左\"倾领导人是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "博古、李德"
+    },
+    {
+     "key": "B",
+     "text": "王明、张国焘"
+    },
+    {
+     "key": "C",
+     "text": "张闻天、王稼祥"
+    },
+    {
+     "key": "D",
+     "text": "凯丰、何克全"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 89,
+   "type": "single",
+   "stem": "李德的真实身份是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "共产国际军事顾问"
+    },
+    {
+     "key": "B",
+     "text": "苏联红军司令员"
+    },
+    {
+     "key": "C",
+     "text": "地下交通员"
+    },
+    {
+     "key": "D",
+     "text": "情报人员"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 90,
+   "type": "single",
+   "stem": "张国焘在长征途中犯下的严重错误是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "分裂党和红军"
+    },
+    {
+     "key": "B",
+     "text": "擅自放弃根据地"
+    },
+    {
+     "key": "C",
+     "text": "投降国民党"
+    },
+    {
+     "key": "D",
+     "text": "擅自带兵投敌"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 91,
+   "type": "single",
+   "stem": "红四方面军在长征途中南下作战失利的著名战役是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "平型关战役"
+    },
+    {
+     "key": "B",
+     "text": "百丈关战役"
+    },
+    {
+     "key": "C",
+     "text": "台儿庄战役"
+    },
+    {
+     "key": "D",
+     "text": "淞沪战役"
+    }
+   ],
+   "answer": "B",
+   "_raw_answer": "B",
+   "_tail": ""
+  },
+  {
+   "id": 92,
+   "type": "single",
+   "stem": "为反对张国焘分裂主义，党中央在哪个地方召开会议明确北上方针（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "沙窝会议、毛儿盖会议"
+    },
+    {
+     "key": "B",
+     "text": "通道会议"
+    },
+    {
+     "key": "C",
+     "text": "黎平会议"
+    },
+    {
+     "key": "D",
+     "text": "猴场会议"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 93,
+   "type": "single",
+   "stem": "根据俄界会议决定，红一军、红三军和军委纵队改编为（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "中国工农红军陕甘支队"
+    },
+    {
+     "key": "B",
+     "text": "中国工农红军西路军"
+    },
+    {
+     "key": "C",
+     "text": "中国人民红军抗日先锋军"
+    },
+    {
+     "key": "D",
+     "text": "中国工农红军第十五军团"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 94,
+   "type": "single",
+   "stem": "陕甘支队的司令员、政治委员分别是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "朱德、张国焘"
+    },
+    {
+     "key": "B",
+     "text": "林彪、聂荣臻"
+    },
+    {
+     "key": "C",
+     "text": "徐海东、程子华"
+    },
+    {
+     "key": "D",
+     "text": "彭德怀、毛泽东"
+    }
+   ],
+   "answer": "D",
+   "_raw_answer": "D",
+   "_tail": ""
+  },
+  {
+   "id": 95,
+   "type": "single",
+   "stem": "扎西会议召开的时间是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "1934 年 12 月"
+    },
+    {
+     "key": "B",
+     "text": "1935 年 1 月"
+    },
+    {
+     "key": "C",
+     "text": "1935 年 2 月"
+    },
+    {
+     "key": "D",
+     "text": "1935 年 5 月"
+    }
+   ],
+   "answer": "C",
+   "_raw_answer": "C",
+   "_tail": ""
+  },
+  {
+   "id": 96,
+   "type": "single",
+   "stem": "会理会议召开的时间是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "1935 年 3 月"
+    },
+    {
+     "key": "B",
+     "text": "1935 年 4 月"
+    },
+    {
+     "key": "C",
+     "text": "1935 年 5 月"
+    },
+    {
+     "key": "D",
+     "text": "1935 年 6 月"
+    }
+   ],
+   "answer": "C",
+   "_raw_answer": "C",
+   "_tail": ""
+  },
+  {
+   "id": 97,
+   "type": "single",
+   "stem": "长征途中，克服张国焘分裂主义、坚持北上方针的重要会议是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "古田会议"
+    },
+    {
+     "key": "B",
+     "text": "八七会议"
+    },
+    {
+     "key": "C",
+     "text": "俄界会议"
+    },
+    {
+     "key": "D",
+     "text": "洛川会议"
+    }
+   ],
+   "answer": "C",
+   "_raw_answer": "C",
+   "_tail": ""
+  },
+  {
+   "id": 98,
+   "type": "single",
+   "stem": "通道会议的主要内容是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "改变原定去湘西计划，转向贵州"
+    },
+    {
+     "key": "B",
+     "text": "确立毛泽东领导地位"
+    },
+    {
+     "key": "C",
+     "text": "决定北上抗日"
+    },
+    {
+     "key": "D",
+     "text": "决定翻越雪山"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 99,
+   "type": "single",
+   "stem": "黎平会议召开地点是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "贵州黎平"
+    },
+    {
+     "key": "B",
+     "text": "湖南通道"
+    },
+    {
+     "key": "C",
+     "text": "贵州瓮安"
+    },
+    {
+     "key": "D",
+     "text": "贵州遵义"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 100,
+   "type": "single",
+   "stem": "长征途中，红军渡过乌江后攻占的重要城市是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "瑞金"
+    },
+    {
+     "key": "B",
+     "text": "吴起镇"
+    },
+    {
+     "key": "C",
+     "text": "遵义"
+    },
+    {
+     "key": "D",
+     "text": "甘孜"
+    }
+   ],
+   "answer": "C",
+   "_raw_answer": "C",
+   "_tail": ""
+  },
+  {
+   "id": 101,
+   "type": "single",
+   "stem": "猴场会议被称为（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "遵义会议的前夜"
+    },
+    {
+     "key": "B",
+     "text": "长征胜利的标志"
+    },
+    {
+     "key": "C",
+     "text": "北上抗日誓师会"
+    },
+    {
+     "key": "D",
+     "text": "红军会师大会"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 102,
+   "type": "single",
+   "stem": "\"雄关漫道真如铁，而今迈步从头越\"描写的是红军攻克哪一关口（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "腊子口"
+    },
+    {
+     "key": "B",
+     "text": "娄山关"
+    },
+    {
+     "key": "C",
+     "text": "剑门关"
+    },
+    {
+     "key": "D",
+     "text": "娘子关"
+    }
+   ],
+   "answer": "B",
+   "_raw_answer": "B",
+   "_tail": ""
+  },
+  {
+   "id": 103,
+   "type": "single",
+   "stem": "长征期间，红军建立的唯一一个省级藏族苏维埃政权是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "甘孜博巴政府（藏族）"
+    },
+    {
+     "key": "B",
+     "text": "冕宁彝民政府"
+    },
+    {
+     "key": "C",
+     "text": "回民自治政府"
+    },
+    {
+     "key": "D",
+     "text": "苗民政府"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 104,
+   "type": "single",
+   "stem": "红军长征经过的省份数量，中央红军先后经过（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "11 个省"
+    },
+    {
+     "key": "B",
+     "text": "8 个省"
+    },
+    {
+     "key": "C",
+     "text": "14 个省"
+    },
+    {
+     "key": "D",
+     "text": "6 个省"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 105,
+   "type": "single",
+   "stem": "各路红军长征，按当时行政区划共经过的省份是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "8 个"
+    },
+    {
+     "key": "B",
+     "text": "11 个"
+    },
+    {
+     "key": "C",
+     "text": "18 个"
+    },
+    {
+     "key": "D",
+     "text": "14 个"
+    }
+   ],
+   "answer": "D",
+   "_raw_answer": "D",
+   "_tail": ""
+  },
+  {
+   "id": 106,
+   "type": "single",
+   "stem": "中央红军长征历时约（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "十个月"
+    },
+    {
+     "key": "B",
+     "text": "一年"
+    },
+    {
+     "key": "C",
+     "text": "两年"
+    },
+    {
+     "key": "D",
+     "text": "三年"
+    }
+   ],
+   "answer": "B",
+   "_raw_answer": "B",
+   "_tail": ""
+  },
+  {
+   "id": 107,
+   "type": "single",
+   "stem": "下列省份，中央红军长征没有经过的是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "青海"
+    },
+    {
+     "key": "B",
+     "text": "江西"
+    },
+    {
+     "key": "C",
+     "text": "贵州"
+    },
+    {
+     "key": "D",
+     "text": "甘肃"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 108,
+   "type": "single",
+   "stem": "红军长征中，\"半条被子\"故事发生在（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "湖南汝城沙洲村"
+    },
+    {
+     "key": "B",
+     "text": "江西瑞金"
+    },
+    {
+     "key": "C",
+     "text": "广西全州"
+    },
+    {
+     "key": "D",
+     "text": "贵州遵义"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 109,
+   "type": "single",
+   "stem": "\"半条被子\"故事体现了（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "共产党人与人民群众风雨同舟"
+    },
+    {
+     "key": "B",
+     "text": "红军物资极度匮乏"
+    },
+    {
+     "key": "C",
+     "text": "红军行军艰苦"
+    },
+    {
+     "key": "D",
+     "text": "红军勤俭节约"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 110,
+   "type": "single",
+   "stem": "长征精神中，体现红军与人民群众血肉联系的是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "个人奋斗"
+    },
+    {
+     "key": "B",
+     "text": "依靠群众、患难与共"
+    },
+    {
+     "key": "C",
+     "text": "闭关自守"
+    },
+    {
+     "key": "D",
+     "text": "享乐享受"
+    }
+   ],
+   "answer": "B",
+   "_raw_answer": "B",
+   "_tail": ""
+  },
+  {
+   "id": 111,
+   "type": "single",
+   "stem": "红军长征时期，半条被子故事里的三位女红军属于（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "中央红军"
+    },
+    {
+     "key": "B",
+     "text": "红二方面军"
+    },
+    {
+     "key": "C",
+     "text": "红四方面军"
+    },
+    {
+     "key": "D",
+     "text": "红二十五军"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 112,
+   "type": "single",
+   "stem": "\"半条被子\"故事中，三位女红军把仅有的一条被子剪下一半留给乡亲，她们借宿在（）家中",
+   "options": [
+    {
+     "key": "A",
+     "text": "王定国"
+    },
+    {
+     "key": "B",
+     "text": "徐解秀"
+    },
+    {
+     "key": "C",
+     "text": "李贞"
+    },
+    {
+     "key": "D",
+     "text": "陈琮英"
+    }
+   ],
+   "answer": "B",
+   "_raw_answer": "B",
+   "_tail": ""
+  },
+  {
+   "id": 113,
+   "type": "single",
+   "stem": "1935 年 2 月，中共中央、中革军委发布《告全体红色指战员书》，指出红军必须经常转移作战地区、\"有时向东，有时向西\"。该文告发布于（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "川滇黔边（扎西、白沙一带）"
+    },
+    {
+     "key": "B",
+     "text": "四川毛儿盖"
+    },
+    {
+     "key": "C",
+     "text": "四川懋功"
+    },
+    {
+     "key": "D",
+     "text": "甘肃哈达铺"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 114,
+   "type": "single",
+   "stem": "直罗镇战役的意义是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "给党中央把全国革命大本营放在西北举行了奠基礼"
+    },
+    {
+     "key": "B",
+     "text": "粉碎敌人对川陕根据地进攻"
+    },
+    {
+     "key": "C",
+     "text": "掩护红二方面军转移"
+    },
+    {
+     "key": "D",
+     "text": "打通前往新疆通道"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 115,
+   "type": "single",
+   "stem": "直罗镇战役发生在（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "陕西富县"
+    },
+    {
+     "key": "B",
+     "text": "甘肃合水"
+    },
+    {
+     "key": "C",
+     "text": "宁夏盐池"
+    },
+    {
+     "key": "D",
+     "text": "陕北瓦窑堡"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 116,
+   "type": "single",
+   "stem": "直罗镇战役发生的时间是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "1935 年 9 月"
+    },
+    {
+     "key": "B",
+     "text": "1936 年 10 月"
+    },
+    {
+     "key": "C",
+     "text": "1936 年 11 月"
+    },
+    {
+     "key": "D",
+     "text": "1935 年 11 月"
+    }
+   ],
+   "answer": "D",
+   "_raw_answer": "D",
+   "_tail": ""
+  },
+  {
+   "id": 117,
+   "type": "single",
+   "stem": "瓦窑堡会议召开时间（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "1935 年 12 月"
+    },
+    {
+     "key": "B",
+     "text": "1935 年 10 月"
+    },
+    {
+     "key": "C",
+     "text": "1936 年 10 月"
+    },
+    {
+     "key": "D",
+     "text": "1936 年 12 月"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 118,
+   "type": "single",
+   "stem": "瓦窑堡会议确定的方针是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "建立抗日民族统一战线"
+    },
+    {
+     "key": "B",
+     "text": "武装反抗国民党反动派"
+    },
+    {
+     "key": "C",
+     "text": "土地革命总路线"
+    },
+    {
+     "key": "D",
+     "text": "持久抗战方针"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 119,
+   "type": "single",
+   "stem": "长征中，红军用来御寒、过草地的粮食主要是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "青稞"
+    },
+    {
+     "key": "B",
+     "text": "水稻"
+    },
+    {
+     "key": "C",
+     "text": "小麦"
+    },
+    {
+     "key": "D",
+     "text": "玉米"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 120,
+   "type": "single",
+   "stem": "红军过草地时，用来充饥的主要食物是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "大米白面"
+    },
+    {
+     "key": "B",
+     "text": "罐头饼干"
+    },
+    {
+     "key": "C",
+     "text": "青稞面、野菜和皮带"
+    },
+    {
+     "key": "D",
+     "text": "牛羊肉干"
+    }
+   ],
+   "answer": "C",
+   "_raw_answer": "C",
+   "_tail": ""
+  },
+  {
+   "id": 121,
+   "type": "single",
+   "stem": "过草地时对红军威胁最大的是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "沼泽泥潭、缺粮、寒冷"
+    },
+    {
+     "key": "B",
+     "text": "敌军重兵围剿"
+    },
+    {
+     "key": "C",
+     "text": "高山缺氧"
+    },
+    {
+     "key": "D",
+     "text": "毒蛇猛兽"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 122,
+   "type": "single",
+   "stem": "下列不属于长征中红军所面临主要困难的是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "现代化海空封锁"
+    },
+    {
+     "key": "B",
+     "text": "恶劣自然环境"
+    },
+    {
+     "key": "C",
+     "text": "敌人围追堵截"
+    },
+    {
+     "key": "D",
+     "text": "缺衣少食"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 123,
+   "type": "single",
+   "stem": "红军长征中，被称为\"雪山草地\"，草地主要指（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "若尔盖草原沼泽区"
+    },
+    {
+     "key": "B",
+     "text": "呼伦贝尔草原"
+    },
+    {
+     "key": "C",
+     "text": "甘南草原"
+    },
+    {
+     "key": "D",
+     "text": "青海草原"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 124,
+   "type": "single",
+   "stem": "长征中，红军翻越雪山、与红四方面军会师后继续北上，经过的著名草地是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "呼伦贝尔草原"
+    },
+    {
+     "key": "B",
+     "text": "川西平原"
+    },
+    {
+     "key": "C",
+     "text": "若尔盖草地（松潘草地）"
+    },
+    {
+     "key": "D",
+     "text": "鄂尔多斯草原"
+    }
+   ],
+   "answer": "C",
+   "_raw_answer": "C",
+   "_tail": ""
+  },
+  {
+   "id": 125,
+   "type": "single",
+   "stem": "下面哪一项不属于红军长征的历史意义（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "宣告中国革命彻底胜利"
+    },
+    {
+     "key": "B",
+     "text": "实现中国革命战略大转移"
+    },
+    {
+     "key": "C",
+     "text": "保存党和红军骨干力量"
+    },
+    {
+     "key": "D",
+     "text": "播下革命火种"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 126,
+   "type": "single",
+   "stem": "长征是宣言书、宣传队、播种机，这句话出自（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "毛泽东《论反对日本帝国主义的策略》"
+    },
+    {
+     "key": "B",
+     "text": "《七律·长征》"
+    },
+    {
+     "key": "C",
+     "text": "遵义会议决议"
+    },
+    {
+     "key": "D",
+     "text": "瓦窑堡会议报告"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 127,
+   "type": "single",
+   "stem": "红四方面军强渡嘉陵江目的是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "向西转移，策应中央红军"
+    },
+    {
+     "key": "B",
+     "text": "进攻成都"
+    },
+    {
+     "key": "C",
+     "text": "建立新根据地"
+    },
+    {
+     "key": "D",
+     "text": "接应红二方面军"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 128,
+   "type": "single",
+   "stem": "嘉陵江战役是哪支红军发起（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "红四方面军"
+    },
+    {
+     "key": "B",
+     "text": "红一方面军"
+    },
+    {
+     "key": "C",
+     "text": "红二方面军"
+    },
+    {
+     "key": "D",
+     "text": "红二十五军"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 129,
+   "type": "single",
+   "stem": "长征中，红二方面军由哪两支队伍合编组建（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "红二军团、红六军团"
+    },
+    {
+     "key": "B",
+     "text": "红三军团、红五军团"
+    },
+    {
+     "key": "C",
+     "text": "红七军团、红十军团"
+    },
+    {
+     "key": "D",
+     "text": "红八军团、红九军团"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 130,
+   "type": "single",
+   "stem": "红二军团的领导人不包括（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "刘伯承"
+    },
+    {
+     "key": "B",
+     "text": "贺龙"
+    },
+    {
+     "key": "C",
+     "text": "任弼时"
+    },
+    {
+     "key": "D",
+     "text": "关向应"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 131,
+   "type": "single",
+   "stem": "红军北上抗日先遣队是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "红七军团"
+    },
+    {
+     "key": "B",
+     "text": "红九军团"
+    },
+    {
+     "key": "C",
+     "text": "红十军团"
+    },
+    {
+     "key": "D",
+     "text": "红八军团"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 132,
+   "type": "single",
+   "stem": "北上抗日先遣队领导人是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "寻淮洲、粟裕"
+    },
+    {
+     "key": "B",
+     "text": "方志敏、刘畴西"
+    },
+    {
+     "key": "C",
+     "text": "左权、罗瑞卿"
+    },
+    {
+     "key": "D",
+     "text": "陈赓、宋任穷"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 133,
+   "type": "single",
+   "stem": "方志敏被俘前属于哪一支红军（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "红十军团"
+    },
+    {
+     "key": "B",
+     "text": "红七军团"
+    },
+    {
+     "key": "C",
+     "text": "红五军团"
+    },
+    {
+     "key": "D",
+     "text": "红九军团"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 134,
+   "type": "single",
+   "stem": "长征途中，红军后勤医疗条件极差，常用什么简易材料包扎伤口（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "绷带、布条、草药"
+    },
+    {
+     "key": "B",
+     "text": "无菌纱布"
+    },
+    {
+     "key": "C",
+     "text": "医用胶布"
+    },
+    {
+     "key": "D",
+     "text": "抗生素"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 135,
+   "type": "single",
+   "stem": "红军长征通讯条件落后，主要依靠（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "电台、骑兵通信员、徒步传令"
+    },
+    {
+     "key": "B",
+     "text": "卫星通信"
+    },
+    {
+     "key": "C",
+     "text": "有线电话全网覆盖"
+    },
+    {
+     "key": "D",
+     "text": "无线电对讲机"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 136,
+   "type": "single",
+   "stem": "长征中，负责殿后掩护、损失很大，被誉为\"铁流后卫\"的军团是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "红五军团"
+    },
+    {
+     "key": "B",
+     "text": "红一军团"
+    },
+    {
+     "key": "C",
+     "text": "红三军团"
+    },
+    {
+     "key": "D",
+     "text": "红九军团"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 137,
+   "type": "single",
+   "stem": "长征中，红九军团单独行动掩护主力，被称为（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "战略骑兵"
+    },
+    {
+     "key": "B",
+     "text": "铁后卫"
+    },
+    {
+     "key": "C",
+     "text": "突击队"
+    },
+    {
+     "key": "D",
+     "text": "北上支队"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 138,
+   "type": "single",
+   "stem": "遵义会议后，谁担任红军总参谋长（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "刘伯承"
+    },
+    {
+     "key": "B",
+     "text": "叶剑英"
+    },
+    {
+     "key": "C",
+     "text": "彭德怀"
+    },
+    {
+     "key": "D",
+     "text": "林彪"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 139,
+   "type": "single",
+   "stem": "红军长征时，彭德怀担任（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "红三军团军团长"
+    },
+    {
+     "key": "B",
+     "text": "红一军团军团长"
+    },
+    {
+     "key": "C",
+     "text": "红五军团军团长"
+    },
+    {
+     "key": "D",
+     "text": "红九军团军团长"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 140,
+   "type": "single",
+   "stem": "红一军团军团长在长征时期是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "林彪"
+    },
+    {
+     "key": "B",
+     "text": "聂荣臻"
+    },
+    {
+     "key": "C",
+     "text": "左权"
+    },
+    {
+     "key": "D",
+     "text": "罗荣桓"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 141,
+   "type": "single",
+   "stem": "长征时期聂荣臻担任红一军团（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "政委"
+    },
+    {
+     "key": "B",
+     "text": "军团长"
+    },
+    {
+     "key": "C",
+     "text": "参谋长"
+    },
+    {
+     "key": "D",
+     "text": "政治部主任"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 142,
+   "type": "single",
+   "stem": "长征中，\"金色的鱼钩\"故事主角是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "老班长"
+    },
+    {
+     "key": "B",
+     "text": "炊事班长"
+    },
+    {
+     "key": "C",
+     "text": "骑兵班长"
+    },
+    {
+     "key": "D",
+     "text": "通信班长"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 143,
+   "type": "single",
+   "stem": "\"金色的鱼钩\"故事发生在（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "过草地途中"
+    },
+    {
+     "key": "B",
+     "text": "翻越夹金山"
+    },
+    {
+     "key": "C",
+     "text": "强渡大渡河"
+    },
+    {
+     "key": "D",
+     "text": "湘江战役"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 144,
+   "type": "single",
+   "stem": "长征中军需处长牺牲的故事发生在（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "翻越雪山"
+    },
+    {
+     "key": "B",
+     "text": "过草地"
+    },
+    {
+     "key": "C",
+     "text": "湘江之战"
+    },
+    {
+     "key": "D",
+     "text": "腊子口战斗"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 145,
+   "type": "single",
+   "stem": "军需处长牺牲的原因是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "把棉衣让给战友，自己冻僵牺牲"
+    },
+    {
+     "key": "B",
+     "text": "中弹负伤牺牲"
+    },
+    {
+     "key": "C",
+     "text": "缺粮饿死"
+    },
+    {
+     "key": "D",
+     "text": "陷入沼泽牺牲"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 146,
+   "type": "single",
+   "stem": "红军长征中，下列哪一条是红军的纪律（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "三大纪律八项注意"
+    },
+    {
+     "key": "B",
+     "text": "十大纲领"
+    },
+    {
+     "key": "C",
+     "text": "六大要求"
+    },
+    {
+     "key": "D",
+     "text": "四项守则"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 147,
+   "type": "single",
+   "stem": "\"三大纪律\"第一条是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "一切行动听指挥"
+    },
+    {
+     "key": "B",
+     "text": "不拿群众一针一线"
+    },
+    {
+     "key": "C",
+     "text": "一切缴获要归公"
+    },
+    {
+     "key": "D",
+     "text": "说话和气"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 148,
+   "type": "single",
+   "stem": "长征途中，红军严格遵守的群众纪律是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "打土豪分田地即可"
+    },
+    {
+     "key": "B",
+     "text": "不拿群众一针一线"
+    },
+    {
+     "key": "C",
+     "text": "就地征发粮食"
+    },
+    {
+     "key": "D",
+     "text": "占用民房不还"
+    }
+   ],
+   "answer": "B",
+   "_raw_answer": "B",
+   "_tail": ""
+  },
+  {
+   "id": 149,
+   "type": "single",
+   "stem": "长征途中，红军在少数民族地区严格执行政策，不包括（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "强迫少数民族参军"
+    },
+    {
+     "key": "B",
+     "text": "尊重民族习俗"
+    },
+    {
+     "key": "C",
+     "text": "公平买卖"
+    },
+    {
+     "key": "D",
+     "text": "团结少数民族上层"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 150,
+   "type": "single",
+   "stem": "红军长征胜利的根本保证是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "中国共产党的正确领导"
+    },
+    {
+     "key": "B",
+     "text": "武器装备优势"
+    },
+    {
+     "key": "C",
+     "text": "国民党内部主动让路"
+    },
+    {
+     "key": "D",
+     "text": "帝国主义支持"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 151,
+   "type": "single",
+   "stem": "长征途中，红军主力北上的最终战略目标是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "北上抗日"
+    },
+    {
+     "key": "B",
+     "text": "占领大城市"
+    },
+    {
+     "key": "C",
+     "text": "夺取沿海地区"
+    },
+    {
+     "key": "D",
+     "text": "建立南方根据地"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 152,
+   "type": "single",
+   "stem": "长征拉开了中国革命从（）的伟大转折",
+   "options": [
+    {
+     "key": "A",
+     "text": "南方到北方"
+    },
+    {
+     "key": "B",
+     "text": "城市到农村"
+    },
+    {
+     "key": "C",
+     "text": "合法斗争到武装斗争"
+    },
+    {
+     "key": "D",
+     "text": "和平到战争"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 153,
+   "type": "single",
+   "stem": "长征之后，中国革命大本营转移到（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "西北陕甘宁地区"
+    },
+    {
+     "key": "B",
+     "text": "华北平原"
+    },
+    {
+     "key": "C",
+     "text": "华中地区"
+    },
+    {
+     "key": "D",
+     "text": "西南山区"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 154,
+   "type": "single",
+   "stem": "1936 年 2 月，红一方面军以（）名义东渡黄河，发起东征战役",
+   "options": [
+    {
+     "key": "A",
+     "text": "中国工农红军陕甘支队"
+    },
+    {
+     "key": "B",
+     "text": "中国人民红军抗日先锋军"
+    },
+    {
+     "key": "C",
+     "text": "中国工农红军西路军"
+    },
+    {
+     "key": "D",
+     "text": "中国工农红军第十五军团"
+    }
+   ],
+   "answer": "B",
+   "_raw_answer": "B",
+   "_tail": ""
+  },
+  {
+   "id": 155,
+   "type": "single",
+   "stem": "1936 年 5 月，红军发起西征，其主要任务是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "东渡黄河对日作战"
+    },
+    {
+     "key": "B",
+     "text": "扩大陕甘根据地、迎接红二和红四方面军北上"
+    },
+    {
+     "key": "C",
+     "text": "打通河西走廊"
+    },
+    {
+     "key": "D",
+     "text": "攻占太原"
+    }
+   ],
+   "answer": "B",
+   "_raw_answer": "B",
+   "_tail": ""
+  },
+  {
+   "id": 156,
+   "type": "single",
+   "stem": "长征胜利后，中共中央进驻并成为抗日战争时期指挥中枢的城市是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "延安"
+    },
+    {
+     "key": "B",
+     "text": "瑞金"
+    },
+    {
+     "key": "C",
+     "text": "遵义"
+    },
+    {
+     "key": "D",
+     "text": "西柏坡"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 157,
+   "type": "single",
+   "stem": "长征胜利之后，党和红军最重要的任务是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "推动抗日民族统一战线，抗击日本侵略"
+    },
+    {
+     "key": "B",
+     "text": "立即解放全中国"
+    },
+    {
+     "key": "C",
+     "text": "放弃武装斗争"
+    },
+    {
+     "key": "D",
+     "text": "转移到国外"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 158,
+   "type": "single",
+   "stem": "下列哪一句不属于长征精神表述（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "唯利是图、投机取巧"
+    },
+    {
+     "key": "B",
+     "text": "为了救国救民不怕牺牲"
+    },
+    {
+     "key": "C",
+     "text": "独立自主实事求是"
+    },
+    {
+     "key": "D",
+     "text": "顾全大局、严守纪律"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 159,
+   "type": "single",
+   "stem": "长征途中，红军电台稀缺，破译敌军电报做出突出贡献的是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "军委二局"
+    },
+    {
+     "key": "B",
+     "text": "军委一局"
+    },
+    {
+     "key": "C",
+     "text": "军委三局"
+    },
+    {
+     "key": "D",
+     "text": "军委四局"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 160,
+   "type": "single",
+   "stem": "红军长征中，\"羊皮筏子\"曾用于在哪里渡河（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "黄河上游"
+    },
+    {
+     "key": "B",
+     "text": "金沙江"
+    },
+    {
+     "key": "C",
+     "text": "大渡河"
+    },
+    {
+     "key": "D",
+     "text": "赤水河"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 161,
+   "type": "single",
+   "stem": "红军三大主力会师后不久，进行的山城堡战役，对手是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "国民党胡宗南部"
+    },
+    {
+     "key": "B",
+     "text": "阎锡山部队"
+    },
+    {
+     "key": "C",
+     "text": "马步芳骑兵"
+    },
+    {
+     "key": "D",
+     "text": "东北军"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 162,
+   "type": "single",
+   "stem": "山城堡战役的意义是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "长征结束后最后一战，巩固陕甘宁根据地"
+    },
+    {
+     "key": "B",
+     "text": "打通河西走廊"
+    },
+    {
+     "key": "C",
+     "text": "接应西路军"
+    },
+    {
+     "key": "D",
+     "text": "进军宁夏"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 163,
+   "type": "single",
+   "stem": "山城堡战役发生在（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "1935 年 11 月"
+    },
+    {
+     "key": "B",
+     "text": "1936 年 10 月"
+    },
+    {
+     "key": "C",
+     "text": "1936 年 11 月"
+    },
+    {
+     "key": "D",
+     "text": "1937 年 7 月"
+    }
+   ],
+   "answer": "C",
+   "_raw_answer": "C",
+   "_tail": ""
+  },
+  {
+   "id": 164,
+   "type": "single",
+   "stem": "西路军西渡黄河的时间是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "1935 年 10 月"
+    },
+    {
+     "key": "B",
+     "text": "1936 年 5 月"
+    },
+    {
+     "key": "C",
+     "text": "1936 年 10 月"
+    },
+    {
+     "key": "D",
+     "text": "1936 年 12 月"
+    }
+   ],
+   "answer": "C",
+   "_raw_answer": "C",
+   "_tail": ""
+  },
+  {
+   "id": 165,
+   "type": "single",
+   "stem": "西路军是由哪支部队西渡黄河组成（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "红四方面军一部"
+    },
+    {
+     "key": "B",
+     "text": "红一方面军一部"
+    },
+    {
+     "key": "C",
+     "text": "红二方面军主力"
+    },
+    {
+     "key": "D",
+     "text": "红二十五军"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 166,
+   "type": "single",
+   "stem": "红军长征中，下列哪一项史实正确（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "长征途中红军一边行军一边做群众工作"
+    },
+    {
+     "key": "B",
+     "text": "红军沿途掠夺百姓粮食物资"
+    },
+    {
+     "key": "C",
+     "text": "红军拒绝和少数民族交往"
+    },
+    {
+     "key": "D",
+     "text": "红军放弃全部革命理想"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 167,
+   "type": "single",
+   "stem": "长征精神是（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "中国共产党人精神谱系重要组成部分"
+    },
+    {
+     "key": "B",
+     "text": "只属于过去、今天不需要学习"
+    },
+    {
+     "key": "C",
+     "text": "单纯吃苦受罪的代名词"
+    },
+    {
+     "key": "D",
+     "text": "过时的历史口号"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 168,
+   "type": "single",
+   "stem": "纪念长征胜利 90 周年，我们应当（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "传承长征精神，勇担时代使命"
+    },
+    {
+     "key": "B",
+     "text": "只当作历史故事，和自身无关"
+    },
+    {
+     "key": "C",
+     "text": "否定长征历史价值"
+    },
+    {
+     "key": "D",
+     "text": "淡化长征历史记忆"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 169,
+   "type": "single",
+   "stem": "新时代传承长征精神，最根本的是要坚定（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "理想信念"
+    },
+    {
+     "key": "B",
+     "text": "个人利益"
+    },
+    {
+     "key": "C",
+     "text": "安逸享受"
+    },
+    {
+     "key": "D",
+     "text": "地域观念"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  },
+  {
+   "id": 170,
+   "type": "single",
+   "stem": "习近平总书记指出，长征永远在路上，每一代人有每一代人的（）",
+   "options": [
+    {
+     "key": "A",
+     "text": "长征路"
+    },
+    {
+     "key": "B",
+     "text": "发财路"
+    },
+    {
+     "key": "C",
+     "text": "享受路"
+    },
+    {
+     "key": "D",
+     "text": "安逸路"
+    }
+   ],
+   "answer": "A",
+   "_raw_answer": "A",
+   "_tail": ""
+  }
+ ],
+ "judge": [
+  {
+   "id": 1,
+   "type": "judge",
+   "stem": "1936 年 10 月红一、二、四方面军在甘肃会宁、将台堡会师，标志长征胜利结束。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 2,
+   "type": "judge",
+   "stem": "中央红军从江西瑞金出发长征，时间是 1934 年 10 月。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 3,
+   "type": "judge",
+   "stem": "红军长征的目的是摆脱国民党军队的围追堵截，保存革命力量。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 4,
+   "type": "judge",
+   "stem": "红军长征只有中央红军（红一方面军）一路队伍。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": false,
+   "_raw_answer": "【答案】×"
+  },
+  {
+   "id": 5,
+   "type": "judge",
+   "stem": "遵义会议召开于 1935 年 1 月，是党历史上生死攸关的转折点。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 6,
+   "type": "judge",
+   "stem": "遵义会议是在长征胜利结束之后召开的。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": false,
+   "_raw_answer": "【答案】×"
+  },
+  {
+   "id": 7,
+   "type": "judge",
+   "stem": "四渡赤水打乱了国民党军队的追剿计划。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 8,
+   "type": "judge",
+   "stem": "红军长征中，四渡赤水是毛泽东军事指挥的经典战例。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 9,
+   "type": "judge",
+   "stem": "巧渡金沙江之后，红军跳出了国民党几十万大军的包围圈。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 10,
+   "type": "judge",
+   "stem": "中央红军长征经过了金沙江、大渡河等多条江河。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 11,
+   "type": "judge",
+   "stem": "飞夺泸定桥战斗发生在大渡河上。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 12,
+   "type": "judge",
+   "stem": "强渡大渡河和飞夺泸定桥都发生在长征途中的四川境内。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 13,
+   "type": "judge",
+   "stem": "红军翻越的第一座大雪山是夹金山。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 14,
+   "type": "judge",
+   "stem": "松潘草地沼泽遍布，缺粮严寒，是长征路上最艰难路段之一。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 15,
+   "type": "judge",
+   "stem": "红一方面军于 1935 年 10 月到达陕北吴起镇。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 16,
+   "type": "judge",
+   "stem": "1935 年 10 月中央红军到达吴起镇，标志红军三大主力长征胜利结束。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": false,
+   "_raw_answer": "【答案】×"
+  },
+  {
+   "id": 17,
+   "type": "judge",
+   "stem": "红二十五军是最先到达陕北的红军部队。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 18,
+   "type": "judge",
+   "stem": "红二十五军在长征途中没有与其他红军会师，单独到达陕北。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": false,
+   "_raw_answer": "【答案】×"
+  },
+  {
+   "id": 19,
+   "type": "judge",
+   "stem": "彝海结盟是红军和彝族首领小叶丹结盟，体现党的民族政策。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 20,
+   "type": "judge",
+   "stem": "\"半条被子\"故事发生在湖南汝城沙洲村。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 21,
+   "type": "judge",
+   "stem": "《七律·长征》作者是毛泽东。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 22,
+   "type": "judge",
+   "stem": "《七律·长征》是毛泽东在三大主力会师、长征胜利结束后回顾写下的作品。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": false,
+   "_raw_answer": "【答案】×"
+  },
+  {
+   "id": 23,
+   "type": "judge",
+   "stem": "中央红军长征里程约二万五千里。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 24,
+   "type": "judge",
+   "stem": "腊子口天险位于甘肃省南部，是红军进入陕北的重要通道。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 25,
+   "type": "judge",
+   "stem": "我们常说的\"二万五千里长征\"，指的是红一方面军（中央红军）的行军里程。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 26,
+   "type": "judge",
+   "stem": "长征全程大约一万公里。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": false,
+   "_raw_answer": "【答案】×"
+  },
+  {
+   "id": 27,
+   "type": "judge",
+   "stem": "哈达铺是红军获知陕北红军和根据地消息，确定北上落脚点的地方。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 28,
+   "type": "judge",
+   "stem": "榜罗镇会议正式确定把陕北作为长征落脚点。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 29,
+   "type": "judge",
+   "stem": "湘江战役是中央红军长征途中损失最大的一场血战。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 30,
+   "type": "judge",
+   "stem": "湘江战役是长征途中最为惨烈的一战，中央红军在此战之后，兵力由出发时 8.6 万余人锐减至3 万余人。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 31,
+   "type": "judge",
+   "stem": "遵义会议纠正了博古、李德等人\"左\"倾军事错误。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 32,
+   "type": "judge",
+   "stem": "遵义会议事实上确立了毛泽东同志在党中央和红军的领导地位。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 33,
+   "type": "judge",
+   "stem": "张国焘长征途中搞分裂活动，另立中央，严重破坏红军团结。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 34,
+   "type": "judge",
+   "stem": "红四方面军与中央红军会师后，曾出现过南下与北上的路线分歧。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 35,
+   "type": "judge",
+   "stem": "俄界会议作出《关于张国焘同志的错误的决定》。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 36,
+   "type": "judge",
+   "stem": "毛儿盖会议、沙窝会议坚定维护中央北上方针，反对南下分裂。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 37,
+   "type": "judge",
+   "stem": "长征期间，\"两河口会议\"的核心议题是统一思想，确定北上建立川陕甘根据地的战略方针。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 38,
+   "type": "judge",
+   "stem": "直罗镇战役被称为党中央扎根西北的奠基礼。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 39,
+   "type": "judge",
+   "stem": "瓦窑堡会议提出建立抗日民族统一战线。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 40,
+   "type": "judge",
+   "stem": "长征是宣言书、是宣传队、是播种机。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 41,
+   "type": "judge",
+   "stem": "红五军团在长征中担任后卫掩护，被誉为\"铁流后卫\"。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 42,
+   "type": "judge",
+   "stem": "\"金色的鱼钩\"故事发生在红军过草地时期。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 43,
+   "type": "judge",
+   "stem": "军需处长冻僵牺牲的故事发生在翻越雪山途中。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 44,
+   "type": "judge",
+   "stem": "长征途中红军严格遵守三大纪律八项注意，爱护群众。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 45,
+   "type": "judge",
+   "stem": "长征途中，红军完全依靠自己解决了所有物资补给，未得到沿途群众支援。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": false,
+   "_raw_answer": "【答案】×"
+  },
+  {
+   "id": 46,
+   "type": "judge",
+   "stem": "长征胜利保存了党和红军的骨干力量，播撒革命火种。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 47,
+   "type": "judge",
+   "stem": "长征的胜利是中国革命转危为安的关键。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 48,
+   "type": "judge",
+   "stem": "红二方面军由红二军团、红六军团合编而成。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 49,
+   "type": "judge",
+   "stem": "红四方面军长征出发于川陕革命根据地。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 50,
+   "type": "judge",
+   "stem": "懋功会师是红一方面军和红四方面军的会师。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 51,
+   "type": "judge",
+   "stem": "甘孜会师是红二、红四方面军会师。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 52,
+   "type": "judge",
+   "stem": "长征的战略目标包含北上抗日。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 53,
+   "type": "judge",
+   "stem": "长征精神包括坚定理想信念、不怕牺牲、依靠人民群众。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 54,
+   "type": "judge",
+   "stem": "山城堡战役是三大主力会师后红军打的重要一仗。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 55,
+   "type": "judge",
+   "stem": "红军长征途中尊重少数民族风俗习惯，公平交易。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 56,
+   "type": "judge",
+   "stem": "长征实现了中国革命大本营从南方转移到西北陕甘宁地区。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 57,
+   "type": "judge",
+   "stem": "长征精神是中国共产党人精神谱系的重要组成部分。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 58,
+   "type": "judge",
+   "stem": "长征途中，红军指战员始终保持着革命乐观主义精神。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": true,
+   "_raw_answer": "【答案】√"
+  },
+  {
+   "id": 59,
+   "type": "judge",
+   "stem": "中央红军长征全程没有经过云南。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": false,
+   "_raw_answer": "【答案】×"
+  },
+  {
+   "id": 60,
+   "type": "judge",
+   "stem": "红军飞夺泸定桥时，桥上木板全部完好无损。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": false,
+   "_raw_answer": "【答案】×"
+  },
+  {
+   "id": 61,
+   "type": "judge",
+   "stem": "遵义会议撤销了周恩来的全部职务。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": false,
+   "_raw_answer": "【答案】×"
+  },
+  {
+   "id": 62,
+   "type": "judge",
+   "stem": "长征一开始党中央就计划直接前往陕北。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": false,
+   "_raw_answer": "【答案】×"
+  },
+  {
+   "id": 63,
+   "type": "judge",
+   "stem": "过草地时遍地都是粮食，红军不愁补给。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": false,
+   "_raw_answer": "【答案】×"
+  },
+  {
+   "id": 64,
+   "type": "judge",
+   "stem": "红军过草地时，面临的主要是炎热干旱的沙漠环境。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": false,
+   "_raw_answer": "【答案】×"
+  },
+  {
+   "id": 65,
+   "type": "judge",
+   "stem": "所有红军队伍长征里程都是二万五千里。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": false,
+   "_raw_answer": "【答案】×"
+  },
+  {
+   "id": 66,
+   "type": "judge",
+   "stem": "长征胜利意味着抗日战争马上全面爆发。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": false,
+   "_raw_answer": "【答案】×"
+  },
+  {
+   "id": 67,
+   "type": "judge",
+   "stem": "红军长征沿途抢夺老百姓粮食财物。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": false,
+   "_raw_answer": "【答案】×"
+  },
+  {
+   "id": 68,
+   "type": "judge",
+   "stem": "长征精神已经过时，新时代不需要学习长征精神。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": false,
+   "_raw_answer": "【答案】×"
+  },
+  {
+   "id": 69,
+   "type": "judge",
+   "stem": "长征路上，红军没有和任何少数民族接触。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": false,
+   "_raw_answer": "【答案】×"
+  },
+  {
+   "id": 70,
+   "type": "judge",
+   "stem": "新时代青年传承长征精神，应体现在学习、工作和攻坚克难的实际行动中。",
+   "options": [
+    {
+     "key": "T",
+     "text": "正确"
+    },
+    {
+     "key": "F",
+     "text": "错误"
+    }
+   ],
+   "answer": null,
+   "_raw_answer": null
+  }
+ ]
+}
